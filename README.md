@@ -9,7 +9,7 @@ Analysis of Gentrification of Paris IRIS Units
 
 **Developers:**
 
-[Interact lin (needs UC Berkeley Calnet ID)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=FRENCH-43&branch=master&path=)
+[Interact link (needs UC Berkeley Calnet ID)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=FRENCH-43&branch=master&path=)
 
 ### Data
 
