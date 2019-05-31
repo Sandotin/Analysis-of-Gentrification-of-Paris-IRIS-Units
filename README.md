@@ -1,4 +1,4 @@
-# French 43 SP19
+# French 43
 
 **Instructor: Nicholas Paige**
 
