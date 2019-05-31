@@ -2,7 +2,7 @@
 
 **Instructor: Nicholas Paige**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/FRENCH-43/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/FRENCH-43/master)
 [![UCB Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=FRENCH-43&branch=master&path=)
 
 Analysis of Gentrification of Paris IRIS Units
