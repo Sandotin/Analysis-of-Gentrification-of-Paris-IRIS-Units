@@ -18,4 +18,4 @@ Analysis of Gentrification of Paris IRIS Units
 | French 43 Module | IRIS_SOCIOLOGIE.csv | - | - |
 | French 43 Module | IRIS_ACTIVATE.csv | - | - |
 | French 43 Module | IRIS_DEMOGRAPHIE-2.csv | - | IRIS unit demographics |
-| French 43 Module | IRIS_SOCIOLOGIE.geojson | - | Construct Paris map |
+| French 43 Module | iris-sociologie.geojson | - | Construct Paris map |
